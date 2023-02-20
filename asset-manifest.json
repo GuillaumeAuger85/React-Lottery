@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Lottery/static/css/main.2cf24244.css",
+    "main.js": "/React-Lottery/static/js/main.528cddc9.js",
+    "static/js/787.c90eb3c1.chunk.js": "/React-Lottery/static/js/787.c90eb3c1.chunk.js",
+    "index.html": "/React-Lottery/index.html",
+    "main.2cf24244.css.map": "/React-Lottery/static/css/main.2cf24244.css.map",
+    "main.528cddc9.js.map": "/React-Lottery/static/js/main.528cddc9.js.map",
+    "787.c90eb3c1.chunk.js.map": "/React-Lottery/static/js/787.c90eb3c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cf24244.css",
+    "static/js/main.528cddc9.js"
+  ]
+}
